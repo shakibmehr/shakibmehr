@@ -1,10 +1,10 @@
 
 import QtQuick 2.10
 import QtQuick.Window 2.10
-import QtQuick.Controls 2.5
+import QtQuick.Controls 2.0
 import QtQuick.Layouts 1.0
-import QtLocation 5.6
-import QtPositioning 5.6
+import QtLocation 5.5
+import QtPositioning 5.5
 
 Window {
     id : rootWindow
