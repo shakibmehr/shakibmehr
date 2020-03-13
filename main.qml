@@ -1,3 +1,4 @@
+
 import QtQuick 2.12
 import QtQuick.Window 2.12
 import QtQuick.Controls 2.5
@@ -8,9 +9,8 @@ import QtPositioning 5.6
 Window {
     id : rootWindow
     visible: true
-    visibility: "FullScreen"
-    width: 1040
-    height: 780
+    width: 640
+    height: 480
     title: qsTr("Map")
 
     function formatDistance(meters)
