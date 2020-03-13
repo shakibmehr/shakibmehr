@@ -1,8 +1,8 @@
 
-import QtQuick 2.12
-import QtQuick.Window 2.12
+import QtQuick 2.10
+import QtQuick.Window 2.10
 import QtQuick.Controls 2.5
-import QtQuick.Layouts 1.12
+import QtQuick.Layouts 1.0
 import QtLocation 5.6
 import QtPositioning 5.6
 
